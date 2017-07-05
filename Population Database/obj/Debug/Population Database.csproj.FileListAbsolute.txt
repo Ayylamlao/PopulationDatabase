@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Population\Population Database\Population Database\bin\Debug\Population Database.exe.config
+C:\Users\PC\Desktop\Population\Population Database\Population Database\bin\Debug\Population Database.exe
+C:\Users\PC\Desktop\Population\Population Database\Population Database\bin\Debug\Population Database.pdb
+C:\Users\PC\Desktop\Population\Population Database\Population Database\obj\Debug\Population Database.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Population\Population Database\Population Database\obj\Debug\Population_Database.Form1.resources
+C:\Users\PC\Desktop\Population\Population Database\Population Database\obj\Debug\Population_Database.Properties.Resources.resources
+C:\Users\PC\Desktop\Population\Population Database\Population Database\obj\Debug\Population Database.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Population\Population Database\Population Database\obj\Debug\Population Database.exe
+C:\Users\PC\Desktop\Population\Population Database\Population Database\obj\Debug\Population Database.pdb
